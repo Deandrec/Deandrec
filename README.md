@@ -1,7 +1,7 @@
 
 ##  Greetings! 👋
 
-I'm currently on a **fullstack web development** journey with the good knowledge of **frontend devlopment**. Looking forward to join another adventurous team and help on some interesting projects!
+I'm currently on a **fullstack web development** journey with the good knowledge of **frontend devlopment**. Looking forward to joining an adventurous team and helping on some interesting projects!
 
 📪 <clarkmdeandre@gmail.com>
 
